@@ -1,0 +1,8 @@
+{
+  "name": "MaxMilhas Test",
+  "version": "1.0.0",
+  "description": "Blackist API",
+  "template": {
+    "forceLanguage": "en"
+  }
+}
